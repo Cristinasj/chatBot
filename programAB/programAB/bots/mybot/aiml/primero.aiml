@@ -4,8 +4,32 @@ encoding="UTF-8"?>
 
 <!-- Primera regla -->
 <category>
-<pattern>Hola *</pattern>
+<pattern>Hola</pattern>
 <template>Hola, que tal?</template>
+</category>
+
+<!-- Segunda regla -->
+<category>
+<pattern>* que tal tu</pattern>
+<template>Estoy genial!!!! Me encanta conocer gente nueva</template>
+</category>
+
+<!-- Tercera regla -->
+<category> 
+<pattern>como te llamas</pattern>
+<template>Mi nombre es HALfonso</template>
+</category>
+
+<!-- Cuarta regla -->
+<category>
+<pattern>Hola</pattern>
+<template>Hola de nuevo, que tal?</template>
+</category>
+
+<!-- Quinta regla -->
+<category>
+<pattern>me llamo *</pattern>
+<template>Que casualidad <star/> yo tambien tengo nombre, me llamo HALberto</template>
 </category>
 
 </aiml>
