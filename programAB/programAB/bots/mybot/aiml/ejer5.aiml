@@ -1,0 +1,14 @@
+<?xml version="1.0"
+encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+	<pattern>Que companieros tienen el pelo *? </pattern>
+	<template>
+		<think>
+			<set var="salida">Los compañeros que tienen el pelo <star/> son </set> 
+		</think>
+	</template>
+</category>
+
+</aiml>

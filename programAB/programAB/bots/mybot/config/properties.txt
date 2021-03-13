@@ -1,6 +1,8 @@
-name:botForIA
-email:nobody@nowhere.com
+name:Sebastian
+email:sebastian@nowhere.com
 gender:male
-botmaster:theBoss	
+botmaster:Cristinasj	
 organization:ugr
 version:0.0.4
+age:25
+job:hairdresser

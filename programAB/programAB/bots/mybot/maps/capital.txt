@@ -1,0 +1,3 @@
+francia:paris
+espanya:madrid
+alemania:berlin
